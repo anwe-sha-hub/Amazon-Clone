@@ -20,7 +20,9 @@ A front-end clone of the **Amazon India homepage** built using **HTML** and **CS
 - *(No JavaScript in this version – purely front-end layout)*
 
 ---
+Live Server-https://amazon-clone-ah8h0erva-anwe-sha-hubs-projects.vercel.app/
 
+---
 ## 🚀 How to Run Locally
 
 1. Clone the repository or download the ZIP:
